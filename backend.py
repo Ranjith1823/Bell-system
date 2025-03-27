@@ -4,7 +4,7 @@ from firebase_admin import credentials, db
 # Firebase Initialization (Only Once)
 cred = credentials.Certificate("D:/git/Bell-system/firebase_credentials.json")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': "https://bell-system-aiat-52f14-default-rtdb.asia-southeast1.firebasedatabase.app/holidays"
+    'databaseURL': "https://fir-238ff-default-rtdb.asia-southeast1.firebasedatabase.app"
 })
 
 # Function to get holidays

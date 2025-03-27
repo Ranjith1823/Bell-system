@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Firebase API Key for Authentication
-FIREBASE_WEB_API_KEY = "AIzaSyBldmX_irtOZFSgbsBAkus8pSHrDqRDwVQ"
+FIREBASE_WEB_API_KEY = "AIzaSyDi_GZDf1Gx6mPStqyGwJ1CwLD2bfr9x6Q"
 
 # Serve Frontend
 @app.route('/')
