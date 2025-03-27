@@ -1,0 +1,25 @@
+{
+  "name": "bell-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step needed for static site'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranjith1823/Bell-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranjith1823/Bell-system/issues"
+  },
+  "homepage": "https://github.com/Ranjith1823/Bell-system#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "firebase": "^11.5.0"
+  }
+}
